@@ -10,4 +10,4 @@ title: Home
 Bienvenue sur le site officiel de la communauté Monero France
 
 
-Téléchargez le logo ici -> [Download Logo Monero France](assets/img/Monero-France-logo.jpeg)
+Téléchargez le logo ici : <a href="assets/img/Monero-France-logo.jpeg" download="Logo Monero France">
