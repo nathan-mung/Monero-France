@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Site
+# Monero France
 
 This is the content of your homepage.
