@@ -11,3 +11,5 @@ Bienvenue sur le site officiel de la communauté Monero France
 
 
 <a href="assets/img/Monero-France-logo.jpeg" download="Logo Monero France">Télécharger le logo Monero France</a>
+
+[La communauté X Monero France](https://x.com/i/communities/1882848587396350008)
