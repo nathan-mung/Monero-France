@@ -5,4 +5,4 @@ title: Home
 
 # Monero France
 
-This is the content of your homepage.
+Bienvenur sur le site officiel de la communauté Monero France
